@@ -1,0 +1,15 @@
+C:\Users\kamlesh\Desktop\dotNet\StackAndQueue\bin\Debug\net6.0\StackAndQueue.exe
+C:\Users\kamlesh\Desktop\dotNet\StackAndQueue\bin\Debug\net6.0\StackAndQueue.deps.json
+C:\Users\kamlesh\Desktop\dotNet\StackAndQueue\bin\Debug\net6.0\StackAndQueue.runtimeconfig.json
+C:\Users\kamlesh\Desktop\dotNet\StackAndQueue\bin\Debug\net6.0\StackAndQueue.dll
+C:\Users\kamlesh\Desktop\dotNet\StackAndQueue\bin\Debug\net6.0\StackAndQueue.pdb
+C:\Users\kamlesh\Desktop\dotNet\StackAndQueue\obj\Debug\net6.0\StackAndQueue.csproj.AssemblyReference.cache
+C:\Users\kamlesh\Desktop\dotNet\StackAndQueue\obj\Debug\net6.0\StackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamlesh\Desktop\dotNet\StackAndQueue\obj\Debug\net6.0\StackAndQueue.AssemblyInfoInputs.cache
+C:\Users\kamlesh\Desktop\dotNet\StackAndQueue\obj\Debug\net6.0\StackAndQueue.AssemblyInfo.cs
+C:\Users\kamlesh\Desktop\dotNet\StackAndQueue\obj\Debug\net6.0\StackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\kamlesh\Desktop\dotNet\StackAndQueue\obj\Debug\net6.0\StackAndQueue.dll
+C:\Users\kamlesh\Desktop\dotNet\StackAndQueue\obj\Debug\net6.0\refint\StackAndQueue.dll
+C:\Users\kamlesh\Desktop\dotNet\StackAndQueue\obj\Debug\net6.0\StackAndQueue.pdb
+C:\Users\kamlesh\Desktop\dotNet\StackAndQueue\obj\Debug\net6.0\StackAndQueue.genruntimeconfig.cache
+C:\Users\kamlesh\Desktop\dotNet\StackAndQueue\obj\Debug\net6.0\ref\StackAndQueue.dll
