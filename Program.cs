@@ -11,9 +11,11 @@
             stack.Push(56);
             Console.WriteLine("Stack Structure- ");
             stack.Display();
+            Console.Write("\n");
+            Console.WriteLine("After remove first element");
+            stack.pop();
+            stack.Display();
             Console.ReadLine();
-
-
         }
     }
 }

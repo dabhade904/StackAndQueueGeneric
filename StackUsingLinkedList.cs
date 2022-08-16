@@ -20,6 +20,20 @@ namespace StatckAndQueue
             temp.next = top;
             top = temp;
         }
+
+        // remove at the beginning 
+        public void pop() 
+        {
+            if (top == null)
+            {
+                Console.Write("\nStack Underflow");
+                return;
+            }
+            // update the top pointer to 
+            // point to the next node 
+            top = top.next;
+        }
+
         public void Display()
         {
             if (top == null)
